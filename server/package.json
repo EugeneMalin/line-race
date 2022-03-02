@@ -1,0 +1,14 @@
+{
+  "name": "line-race-server",
+  "version": "1.0.0",
+  "description": "Line race game server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Eugene Malin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
