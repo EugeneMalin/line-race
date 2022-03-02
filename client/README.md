@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Line race
+
+Client for line race app.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
